@@ -8,6 +8,7 @@
 bin/
 tmp/
 trash/
+cli.bat
 *.tmp
 *.bak
 *.swp
